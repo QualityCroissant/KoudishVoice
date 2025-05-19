@@ -1,0 +1,49 @@
+html {
+    background-color: #080b12;
+    color: #a1a1a1;
+    font-family: Arial;
+}
+
+header { 
+    padding-top: 25px;
+    padding-left: 72px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img {
+    position: absolute;
+    top: 27px;
+    left: 25px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 75px;
+    font-size: 50px;
+}
+
+p.sound {
+    text-align: center;
+    padding-top: 100px;
+}
+
+audio {
+    padding-top: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 20px;
+}
+
+a {
+    color: #1024ad;
+    text-decoration-line: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
